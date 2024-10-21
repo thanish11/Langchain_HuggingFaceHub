@@ -1,0 +1,17 @@
+langchain
+langchain-community
+openai
+huggingface_hub
+torch 
+transformers
+langchain-cli
+flask
+scikit-learn
+pandas
+sentence_transformers
+pypdf
+#faiss-gpu
+faiss-cpu
+#pip install ipykernal  ##for running in notebook
+
+
