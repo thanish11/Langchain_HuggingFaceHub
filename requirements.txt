@@ -12,6 +12,7 @@ sentence_transformers
 pypdf
 #faiss-gpu
 faiss-cpu
+tf-keras
 #pip install ipykernal  ##for running in notebook
 
 
